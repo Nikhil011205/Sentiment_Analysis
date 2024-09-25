@@ -51,9 +51,9 @@ Assuming the CSV file contains the following data:
 #### Sample Output 1:
 ```json
 {
-   "positive": 0.33,
-   "negative": 0.33,
-   "neutral": 0.33
+    "negative": 0.3333333333333333,
+    "neutral": 0.3333333333333333,
+    "positive": 0.3333333333333333
 }
 ```
 
